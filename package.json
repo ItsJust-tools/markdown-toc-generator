@@ -1,8 +1,8 @@
 {
-  "name": "percentage-calculator",
+  "name": "markdown-toc-generator",
   "version": "1.4.0",
   "private": true,
-  "description": "A tap-tempo metronome utility that computes BPM from rhythmic taps and shows beat timing statistics.",
+  "description": "Generates a markdown table of contents from headings with GitHub-style anchor links, optional numbering and depth control.",
   "license": "MIT",
   "repository": {
     "type": "git",
